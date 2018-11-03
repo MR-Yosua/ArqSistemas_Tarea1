@@ -1,2 +1,2 @@
-# ArqSistemas_tarea1
-tarea 1
+# lab1_ArqSistemas
+Deploying a website with Jenkins, Docker and Heroku.
